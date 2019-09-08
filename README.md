@@ -39,7 +39,7 @@
 ## Topics Covered
 1. Introduction to Data Science - [[slides](https://github.com/mlda-outreach/xploreee_20190909/blob/master/1-what_is_data_science.pdf)]
 2. Introduction to Python Basics - [[slides](https://github.com/mlda-outreach/xploreee_20190909/blob/master/2-intro_python.pdf)] [[notebook](https://github.com/mlda-outreach/xploreee_20190909/blob/master/2-intro_python.ipynb)]
-3. Introduction to Python Libraries - [[ipynb code](https://github.com/mlda-outreach/xploreee_20190909/blob/master/2-intro_python.ipynb)]
+3. Introduction to Python Libraries - [[slides](https://github.com/mlda-outreach/xploreee_20190909/blob/master/3-Python_Lib.pptx)][[notebook](https://github.com/mlda-outreach/xploreee_20190909/blob/master/3-python_library.ipynb)]
 4. Linear Regression - [[slides](https://github.com/mlda-outreach/xploreee_20190909/blob/master/4-linear_regression.pdf)] [[notebook](https://github.com/mlda-outreach/xploreee_20190909/blob/master/4-linear_regression.ipynb)]
 
 
