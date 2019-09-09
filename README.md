@@ -1,5 +1,7 @@
 # XplorEEE (09-Sep-2019)
 
+## (Update) Solutions
+Thanks for attending the workshop today! The notebook solutions are now uploaded in the `solutions/` folder.
 
 ## Steps to follow:
 ### Step 1a - Logging into Google Colab
@@ -39,7 +41,7 @@
 ## Topics Covered
 1. Introduction to Data Science - [[slides](https://github.com/mlda-outreach/xploreee_20190909/blob/master/1-what_is_data_science.pdf)]
 2. Introduction to Python Basics - [[slides](https://github.com/mlda-outreach/xploreee_20190909/blob/master/2-intro_python.pdf)] [[notebook](https://github.com/mlda-outreach/xploreee_20190909/blob/master/2-intro_python.ipynb)]
-3. Introduction to Python Libraries - [[slides](https://github.com/mlda-outreach/xploreee_20190909/blob/master/3-Python_Lib.pptx)][[notebook](https://github.com/mlda-outreach/xploreee_20190909/blob/master/3-python_library.ipynb)]
+3. Introduction to Python Libraries - [[notebook](https://github.com/mlda-outreach/xploreee_20190909/blob/master/3-python_library.ipynb)]
 4. Linear Regression - [[slides](https://github.com/mlda-outreach/xploreee_20190909/blob/master/4-linear_regression.pdf)] [[notebook](https://github.com/mlda-outreach/xploreee_20190909/blob/master/4-linear_regression.ipynb)]
 
 
